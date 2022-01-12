@@ -3,7 +3,7 @@ entries:
   nginx-chart-test:
     - apiVersion: v2
       appVersion: 1.16.0
-      created: "2022-01-12T23:44:39.634583+02:00"
+      created: "2022-01-13T00:00:48.084848+02:00"
       description: A Helm chart for Kubernetes
       digest: 59609c967cbda37b7fe5b6e95baac86cbf4d6c6fbbcc3139e0345f18eb3ea2b0
       name: nginx-chart-test
@@ -11,4 +11,4 @@ entries:
       urls:
         - https://avrhamneeman.github.io/AviChart/nginx-chart-test-0.1.0.tgz
       version: 0.1.0
-generated: "2022-01-12T23:44:39.633632+02:00"
+generated: "2022-01-13T00:00:48.07971+02:00"
